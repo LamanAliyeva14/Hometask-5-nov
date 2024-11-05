@@ -5,12 +5,14 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="Static-Extension-CustomTypeSort/Program.cs">
     <Files>
-      <File FileName="Static-Extension-CustomTypeSort/Program.cs" Line="1" Column="1" />
+      <File FileName="Static-Extension-CustomTypeSort/Program.cs" Line="10" Column="1" />
+      <File FileName="Static-Extension-CustomTypeSort/Static Extention Methods.cs" Line="59" Column="4" />
+      <File FileName="Static-Extension-CustomTypeSort/Student.cs" Line="33" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Static-Extension-CustomTypeSort" expanded="True">
+          <Node name="Static-Extension-CustomTypeSort">
             <Node name="Static-Extension-CustomTypeSort">
               <Node name="Program.cs" selected="True" />
             </Node>
@@ -23,6 +25,8 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/limaaliyeva/Desktop/pb202/Static-Extension-CustomTypeSort/Static-Extension-CustomTypeSort/Student.cs" relfile="Static-Extension-CustomTypeSort/Student.cs" line="15" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
